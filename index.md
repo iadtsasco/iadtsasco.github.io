@@ -1,11 +1,7 @@
 # We are building exciting new things!
-# Check back soon!
-
-
+# Check back soon or contact us at
 
 
 ```markdown
-Contact: info@iadt.com.co
+info@iadt.com.co
 ```
-
-# Contact: info@iadt.com.co
